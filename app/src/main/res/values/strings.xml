@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EventoPlan</string>
+    <string name="feliz_cumple">Feliz Cumple</string>
+    <string name="signature_text">From I´m</string>
 </resources>
